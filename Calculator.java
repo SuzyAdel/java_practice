@@ -88,6 +88,6 @@ public class Calculator {
             }
         }
 
-        System.out.println("Thank you! byeeeeeee");
+        System.out.println("Thank you!");
     }
 }
